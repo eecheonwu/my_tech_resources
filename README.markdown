@@ -1,4 +1,4 @@
-# My Tech Resources - James Lavin
+# My Tech Resources - JL
 
 ## DESCRIPTION
 
